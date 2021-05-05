@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("sample project");
 		System.out.println("WELCOME TO JAVA WORLD");
 
+
 	}
 
 }
